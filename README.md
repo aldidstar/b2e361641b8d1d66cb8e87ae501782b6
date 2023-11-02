@@ -1,7 +1,3 @@
-# Levart Test
-
-This is repository of Levart Coding Test
-
 ## Installation & Serve
 
 - Clone this repository
